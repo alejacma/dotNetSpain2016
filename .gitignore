@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/FunctionalCSharp/bin
+/FunctionalCSharp/obj
+/FunctionalCSharp.UnitTest/bin
+/FunctionalCSharp.UnitTest/obj
+/HelperFSharp/bin
+/HelperFSharp/obj
+/.vs/FunctionalCSharp/v14
+/packages
